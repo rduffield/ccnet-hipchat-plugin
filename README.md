@@ -10,6 +10,11 @@ Once compiled, copy ccnet.hipchat.plugin.dll to C:\Program Files (x86)\CruiseCon
 Add the following to your ccnet.config:
 
 ```xml
-<hipchat https="true or false" room-id="integer room id or string room name" from="who the message is from, usually Robot Llama" auth-token="your auth token" />
+<hipchat
+	https="true or false"
+	room-id="integer room id or string room name"
+	from="who the message is from, usually Robot Llama"
+	auth-token="your auth token"
+/>
 
 ```
