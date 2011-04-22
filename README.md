@@ -5,7 +5,7 @@ Thanks to [alexscordellis](https://github.com/alexscordellis/) and his [ccnet.ca
 How to install
 ==============
 
-Once compiled, copy ccnet.hipchat.plugin.dll to C:\Program Files (x86)\CruiseControl.NET\server, or to where CruiseControl.NET is installed if not the default path.
+Once compiled, copy ccnet.hipchat.plugin.dll to C:\\Program Files (x86)\\CruiseControl.NET\\server, or to where CruiseControl.NET is installed if not the default path.
 
 Add the following to your ccnet.config publishers block:
 
